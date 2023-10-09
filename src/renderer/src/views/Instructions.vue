@@ -1,7 +1,7 @@
 <template>
   <div class="instructions">
     <a-typography-title :heading="3">
-      如果你觉得改工具好用的话~欢迎给个star
+      如果你觉得改工具好用的话~~欢迎给个star
       <a-button
         type="text"
         @click="toLink('https://gitee.com/baymaxsjj/sqlmock')"
@@ -12,7 +12,7 @@
         </template>
         Gitee
       </a-button>
-      <a-button type="text" @click="toLink('https://github.com/baymaxsjj/sqlmock')">
+      <a-button type="text" @click="toLink('https://github.com/zpp800/sql-mock')">
         <template #icon>
           <icon-font type="icon-github" :size="25"></icon-font>
         </template>
@@ -20,7 +20,7 @@
       </a-button>
     </a-typography-title>
 
-    <a-typography-title :heading="3">数据库数据填充使用说明</a-typography-title>
+    <a-typography-title :heading="3">数据库数据填充使用说明吧</a-typography-title>
     <a-typography-paragraph>
       支持Mock.js 语法<a-button type="text" @click="toLink('http://mockjs.com/examples.html')"
         >访问-Mock.js官网</a-button
