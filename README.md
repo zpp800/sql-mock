@@ -13,7 +13,7 @@ github:[https://github.com/zpp800/sql-mock](https://github.com/zpp800/sql-mock)
 
 ### 下载
 > 注意此下载方式，不一定是最新版本，可能存在些bug。如需使用最新版本，可以克隆本项目后自行打包。
-> github下载： [https://github.com/zpp800/sql-mock/releases](https://github.com/zpp800/sql-mock/releasess)
+> github下载： [https://github.com/zpp800/sql-mock/releases](https://github.com/zpp800/sql-mock/releases)
 
 ### 系统
 
