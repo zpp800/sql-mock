@@ -8,14 +8,14 @@
       </a-button>
 
       <a-tooltip content="Baymax Gitee" position="bottom">
-        <a-button @click="toLink('https://gitee.com/baymaxsjj/sqlmock')">
+        <a-button @click="toLink('')">
           <template #icon>
             <icon-font type="icon-gitee" :size="25"></icon-font>
           </template>
         </a-button>
       </a-tooltip>
       <a-tooltip content="Baymax Gihub" position="bottom">
-        <a-button @click="toLink('https://github.com/baymaxsjj/sqlmock')">
+        <a-button @click="toLink('https://github.com/zpp800/sql-mock')">
           <template #icon>
             <icon-font type="icon-github" :size="25"></icon-font>
           </template>
@@ -29,7 +29,7 @@
         </a-button>
       </a-tooltip>
     </div>
-    <div class="title" style="text-align: center" @click="toLink('https://gitee.com/baymaxsjj')">
+    <div class="title" style="text-align: center" @click="toLink('')">
       <span>SqlMock</span> | <span style="font-size: 13px; opacity: 0.6">数据库数据填充</span><br />
       <span style="font-size: 10px; opacity: 0.5">Copyright © Baymax</span>
     </div>

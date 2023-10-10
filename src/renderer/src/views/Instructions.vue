@@ -1,10 +1,10 @@
 <template>
   <div class="instructions">
     <a-typography-title :heading="3">
-      如果你觉得改工具好用的话~~欢迎给个star
+      如果你觉得改工具好用的话~欢迎给个star
       <a-button
         type="text"
-        @click="toLink('https://gitee.com/baymaxsjj/sqlmock')"
+        @click="toLink('')"
         style="margin: 0 15px"
       >
         <template #icon>
